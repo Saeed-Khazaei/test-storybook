@@ -4,5 +4,16 @@
   "editor.codeActionsOnSave": {
     "source.fixAll": true,
     "source.organizeImports": true
+  },
+  "workbench.colorCustomizations": {
+    // "editorGroupHeader.tabsBackground": "#0000FF",
+    // "editorGroupHeader.tabsBorder": "#0F6C8C",
+    // "editorGroupHeader.border": "#FF5010",
+    // "titleBar.activeBackground": "#ffffff",
+    // "titleBar.activeForeground": "#000000",
+    // "tab.activeBorderTop": "#0A84FF",
+    "tab.activeBorder": "#f06",
+    "tab.activeBorderTop": "#000",
+    "tab.activeBackground": "#000"
   }
 }
