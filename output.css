@@ -1,0 +1,15 @@
+
+
+.bg-softgray-40 {
+  background-color: #dedee778 !important;
+}
+
+.bg-primary-800 {
+  --tw-bg-opacity: 1;
+  background-color: #f06 !important;
+}
+
+.bg-\[\#0ff\] {
+  --tw-bg-opacity: 1;
+  background-color: #0f0 !important;
+}
